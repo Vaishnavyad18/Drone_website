@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+header a{
+    color: wheat;
+    font-size: 18px;
+}
+header span{
+    color: red;
+    font-weight: 900;
+}
+
+.container button{
+    background-color:cadetblue;}
+.container button span{
+    background-color: rgb(186, 12, 30);
+}
+footer .container .flex{margin-left: 20px;    
+}
+
+    
